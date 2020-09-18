@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
-![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&hide=["stars"]&show_icons=true)
+![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&show_icons=true)
