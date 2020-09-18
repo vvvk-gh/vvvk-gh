@@ -9,4 +9,4 @@
 -  **Fact :** First solve the problem, then write the code :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&show_icons=true&count_private=true&hide=issues,stars)
+![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&show_icons=true&count_private=true&hide=stars)
