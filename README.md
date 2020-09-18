@@ -1,5 +1,12 @@
-<h2> Hey there! I'm Aditya.</h2>
+### Vamsi Vutukuri 
+  [![Linkedin Badge](https://img.shields.io/badge/-Vamsi_Vutukuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamsi-vutukuri-029221147/)](https://www.linkedin.com/in/vamsi-vutukuri-029221147/) [![Gmail Badge](https://img.shields.io/badge/-vamsivutukuri1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vamsivutukuri1997@gmail.com)](mailto:vamsivutukuri1997@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-#### <img src="https://i.pinimg.com/originals/0f/5b/cd/0f5bcdbfc2d12733b6917e047456e0ce.gif" width="50"> How about some stats ?
+-  **Learning :** UI Design :sparkler: | Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, JavaScript
+-  **Hobbies :** Documentaries & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&show_icons=true)
+![Vamsi Vutukuri GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvvk-gh&show_icons=true&count_private=true&hide=issues,stars)
