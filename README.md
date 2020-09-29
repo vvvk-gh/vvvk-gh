@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** UI Design :sparkler: | Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, JavaScript
+-  **Languages :** Python (Basic), JavaScript
 -  **Hobbies :** Documentaries & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
