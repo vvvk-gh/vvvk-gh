@@ -1,5 +1,5 @@
 ### Vamsi Vutukuri  
-[![Linkedin Badge](https://img.shields.io/badge/-Vamsi_Vutukuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamsi-vutukuri-029221147/)](https://www.linkedin.com/in/vamsi-vutukuri-029221147/) [![Gmail Badge](https://img.shields.io/badge/-vamsivutukuri1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gzzsa1k4u@relay.firefox.com)](mailto:gzzsa1k4u@relay.firefox.com.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vamsi_Vutukuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vamsi-vutukuri-029221147/)](https://www.linkedin.com/in/vamsi-vutukuri-029221147/) [![Gmail Badge](https://img.shields.io/badge/-gzzsa1k4u@relay.firefox.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gzzsa1k4u@relay.firefox.com)](mailto:gzzsa1k4u@relay.firefox.com.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vvvk-gh)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
